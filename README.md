@@ -1,6 +1,6 @@
-# Next.js 14 Training - Class Projects
+# Next.js Training - Class Projects
 
-Welcome to the Next.js 14 Training repository! Each class has its own project folder containing the codebase for that session. Follow the steps below to run the projects locally.
+Welcome to the Next.js Training repository! Each class has its own project folder containing the codebase for that session. Follow the steps below to run the projects locally.
 
 ## Steps to Run a Project
 
