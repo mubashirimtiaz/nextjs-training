@@ -4,8 +4,8 @@ Welcome to the Next.js Training repository! Each class has its own project folde
 
 ## Steps to Run a Project
 
-1. **Navigate to the Class Folder**  
-   Open your terminal and navigate to the specific class folder you want to run. For example:
+1. **Navigate to the Folder**  
+   Open your terminal and navigate to the specific folder you want to run. For example:
 
    ```bash
    cd class-01
